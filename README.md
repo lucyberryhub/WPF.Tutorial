@@ -6,19 +6,19 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 
 | 🌟 Topic                              | 📖 Description                              | 🔗 Wiki Page                                                   |
 |---------------------------------------|---------------------------------------------|---------------------------------------------------------------|
-| **Getting Started with WPF**         | Learn the basics of WPF and XAML            | [View Wiki](https://github.com/WPF-Tutorial/wiki/Getting-Started) |
-| **Layouts and Panels**               | Understanding WPF layouts and design        | [View Wiki](https://github.com/WPF-Tutorial/wiki/Layouts-and-Panels) |
-| **Data Binding Basics**              | Introduction to data binding in WPF         | [View Wiki](https://github.com/WPF-Tutorial/wiki/Data-Binding-Basics) |
-| **Commands in WPF**                  | Implementing and using commands             | [View Wiki](https://github.com/WPF-Tutorial/wiki/Commands-in-WPF) |
-| **MVVM Architecture**                | Understanding and applying MVVM             | [View Wiki](https://github.com/WPF-Tutorial/wiki/MVVM-Architecture) |
-| **Styling and Templating**           | Customizing WPF controls and templates      | [View Wiki](https://github.com/WPF-Tutorial/wiki/Styling-and-Templating) |
-| **Animation in WPF**                 | Adding animations for a lively UI           | [View Wiki](https://github.com/WPF-Tutorial/wiki/Animation-in-WPF) |
-| **Resource Management**              | Managing resources and localization         | [View Wiki](https://github.com/WPF-Tutorial/wiki/Resource-Management) |
+| **Getting Started with WPF**         | Learn the basics of WPF and XAML            | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Getting-Started) |
+| **Layouts and Panels**               | Understanding WPF layouts and design        | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Layouts-and-Panels) |
+| **Data Binding Basics**              | Introduction to data binding in WPF         | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Data-Binding-Basics) |
+| **Commands in WPF**                  | Implementing and using commands             | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Commands-in-WPF) |
+| **MVVM Architecture**                | Understanding and applying MVVM             | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/MVVM-Architecture) |
+| **Styling and Templating**           | Customizing WPF controls and templates      | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Styling-and-Templating) |
+| **Animation in WPF**                 | Adding animations for a lively UI           | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Animation-in-WPF) |
+| **Resource Management**              | Managing resources and localization         | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Resource-Management) |
 | **Login and Authentication**         | Building login/logout functionality         | [View Wiki](https://github.com/WPF-Tutorial/wiki/Login-and-Authentication) |
-| **DataGrid Customization**           | Advanced DataGrid styling and functionality | [View Wiki](https://github.com/WPF-Tutorial/wiki/DataGrid-Customization) |
-| **Integrating with Databases**       | Connecting WPF to SQLite/PostgreSQL         | [View Wiki](https://github.com/your-repo/wiki/Database-Integration) |
-| **Debugging and Performance**        | Tips for debugging and optimizing WPF apps  | [View Wiki](https://github.com/your-repo/wiki/Debugging-and-Performance) |
-| **Deploying WPF Applications**       | Packaging and deploying your app            | [View Wiki](https://github.com/your-repo/wiki/Deploying-WPF-Applications) |
+| **DataGrid Customization**           | Advanced DataGrid styling and functionality | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/DataGrid-Customization) |
+| **Integrating with Databases**       | Connecting WPF to SQLite/PostgreSQL         | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Database-Integration) |
+| **Debugging and Performance**        | Tips for debugging and optimizing WPF apps  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Debugging-and-Performance) |
+| **Deploying WPF Applications**       | Packaging and deploying your app            | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Deploying-WPF-Applications) |
 
 ## 🍒 How to Use This Repository
 
