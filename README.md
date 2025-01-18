@@ -14,7 +14,7 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **Styling and Templating**           | Customizing WPF controls and templates      | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Styling-and-Templating) |
 | **Animation in WPF**                 | Adding animations for a lively UI           | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Animation-in-WPF) |
 | **Resource Management**              | Managing resources and localization         | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Resource-Management) |
-| **Login and Authentication**         | Building login/logout functionality         | [View Wiki](https://github.com/WPF-Tutorial/wiki/Login-and-Authentication) |
+| **Login and Authentication**         | Building login/logout functionality         | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Login-and-Authentication) |
 | **DataGrid Customization**           | Advanced DataGrid styling and functionality | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/DataGrid-Customization) |
 | **Integrating with Databases**       | Connecting WPF to SQLite/PostgreSQL         | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Database-Integration) |
 | **Debugging and Performance**        | Tips for debugging and optimizing WPF apps  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Debugging-and-Performance) |
