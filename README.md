@@ -29,9 +29,5 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 ---
 
 ## ✨ Stay Connected
-For updates, tips, and bonus tutorials, follow Lucy Berry on:
-- [Twitter](https://twitter.com)
-- [Instagram](https://instagram.com)
-- [YouTube](https://youtube.com)
 
 Happy coding, and remember to make your WPF apps as cute and functional as possible! 🍓
