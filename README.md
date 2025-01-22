@@ -21,6 +21,7 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **Deploying WPF Applications**       | Packaging and deploying your app            | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Deploying-WPF-Applications) |
 | **SQLite on a Network Share**       | Delete journal mode | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/SQLite-on-Network-Share) |
 | **Standardizing TextChanged Event**       |  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Standardizing-TextChanged-Event) |
+| **DataGrid Styles**       |  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/DataGrid-Styles) |
 
 ## 🍒 How to Use This Repository
 
