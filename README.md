@@ -24,6 +24,7 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **DataGrid Styles**  |  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/DataGrid-Styles) |
 | **PreviewKeyDown Event**   | prevent row deletion | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/PreviewKeyDown-Event) |
 | **ResourceComparisonConverter**   | to enable DynamicResource in Style.Trigger| [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/ResourceComparisonConverter) |
+| **Interface **   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Interface) |
 
 ## 🍒 How to Use This Repository
 
