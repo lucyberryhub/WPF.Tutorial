@@ -25,6 +25,8 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **PreviewKeyDown Event**   | prevent row deletion | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/PreviewKeyDown-Event) |
 | **ResourceComparisonConverter**   | to enable DynamicResource in Style.Trigger| [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/ResourceComparisonConverter) |
 | **Interface**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Interface) |
+| **Properties**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Properties) |
+
 
 ## 🍒 How to Use This Repository
 
