@@ -26,6 +26,7 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **ResourceComparisonConverter**   | to enable DynamicResource in Style.Trigger| [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/ResourceComparisonConverter) |
 | **Interface**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Interface) |
 | **Properties**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Properties) |
+| **StreamReader**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/StreamReader) |
 
 
 ## 🍒 How to Use This Repository
