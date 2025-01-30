@@ -27,7 +27,7 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **Interface**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Interface) |
 | **Properties**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Properties) |
 | **StreamReader**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/StreamReader) |
-
+| **Delete Jason**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/DeleteJson) |
 
 ## 🍒 How to Use This Repository
 
