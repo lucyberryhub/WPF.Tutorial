@@ -29,6 +29,7 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **StreamReader**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/StreamReader) |
 | **Delete Jason**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/DeleteJson) |
 | **Jason File Handling**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/HandlingJson) |
+| **Jason File Handling2**   |  Improved version| [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/HandlingJson2) |
 
 ## 🍒 How to Use This Repository
 
