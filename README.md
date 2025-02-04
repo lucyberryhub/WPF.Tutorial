@@ -32,7 +32,7 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **Jason File Handling2**   |  Improved version| [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/HandlingJson2) |
 | **UI**   |  Improved version| [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/UI) |
 | **Loading & Binding JSON Data in XAML**   | Json | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Loading_Binding_Json) |
-| **Checkbox Command Binding**   | Binding | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Checkbox Command Binding) |
+| **Checkbox Command Binding**   | Binding | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Checkbox_Command_Binding) |
 
 ## 🍒 How to Use This Repository
 
