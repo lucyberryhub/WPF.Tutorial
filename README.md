@@ -34,6 +34,7 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **Loading & Binding JSON Data in XAML**   | Json | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Loading_Binding_Json) |
 | **Checkbox Command Binding**   | Binding | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Checkbox_Command_Binding) |
 | **DataGrid Radio Button**   | Binding & Create Radio Button in DataGrid | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/RadioButton_DataGrid_Binding) |
+| **StreamReader vs File.ReadAllText**   | How to Read Json File efficiency | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/StreamReader_File.ReadAllText) |
 
 ## 🍒 How to Use This Repository
 
