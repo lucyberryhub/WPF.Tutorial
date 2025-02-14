@@ -36,6 +36,7 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **DataGrid Radio Button**   | Binding & Create Radio Button in DataGrid | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/RadioButton_DataGrid_Binding) |
 | **StreamReader vs File.ReadAllText**   | How to Efficiently Read a JSON File | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/StreamReader_File.ReadAllText) |
 | **DataGrid row information**   | How to get DataGrid row information | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Get_DataGrid_Cell) |
+| **DataTemplates & ResourceDictionary**   |  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/DataTemplates_ResourceDictionary) |
 
 ## 🍒 How to Use This Repository
 
