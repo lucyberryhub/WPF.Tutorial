@@ -38,6 +38,7 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **DataGrid row information**   | How to get DataGrid row information | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Get_DataGrid_Cell) |
 | **DataTemplates & ResourceDictionary**   |  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/DataTemplates_ResourceDictionary) |
 | **Image Data Between a Parent and Popup**   |  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Popup_data_handling) |
+| **Invoke a event**   |  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Invoke_event) |
 
 ## 🍒 How to Use This Repository
 
