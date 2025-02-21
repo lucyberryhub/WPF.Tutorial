@@ -39,6 +39,8 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **DataTemplates & ResourceDictionary**   |  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/DataTemplates_ResourceDictionary) |
 | **Image Data Between a Parent and Popup**   |  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Popup_data_handling) |
 | **Invoke a event**   |  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Invoke_event) |
+| **Join Database Table**   | EF CORE | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Join_DB_Table) |
+
 
 ## 🍒 How to Use This Repository
 
