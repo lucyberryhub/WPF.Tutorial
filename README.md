@@ -41,7 +41,7 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **Invoke a event**   |  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Invoke_event) |
 | **Join Database Table**   | EF CORE | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Join_DB_Table) |
 | **Blob Image Data Handling**   | EF CORE | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Handling_Blob_Data) |
-
+| **Blob Image Data to Datagrid**   | EF CORE | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Blob_Datagrid) |
 
 
 ## 🍒 How to Use This Repository
