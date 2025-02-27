@@ -43,6 +43,7 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **Blob Image Data Handling**   | Blob | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Handling_Blob_Data) |
 | **Blob Image Data to Datagrid**   | Blob | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Blob_Datagrid) |
 | **ImageSource to Blob**   | Blob | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/ImageSourceBlob) |
+| **FirstOrDefault**   | DataContext | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/FirstOrDefault) |
 
 
 ## 🍒 How to Use This Repository
