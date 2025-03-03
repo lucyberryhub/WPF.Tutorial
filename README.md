@@ -45,6 +45,8 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **ImageSource to Blob**   | Blob | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/ImageSourceBlob) |
 | **FirstOrDefault**   | DataContext | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/FirstOrDefault) |
 | **Visual Tree**   |  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/VisualTree) |
+| **Filtering JSON Data**   |  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/FilteringJSONData) |
+| **Passing Parameters in an Event**   |Invoke  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/PassingParametersInEvent) |
 
 
 ## 🍒 How to Use This Repository
