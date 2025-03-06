@@ -47,7 +47,8 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **Visual Tree**   |  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/VisualTree) |
 | **Filtering JSON Data**   |  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/FilteringJSONData) |
 | **Passing Parameters in an Event**   |Invoke  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/PassingParametersInEvent) |
-
+| **switch**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/switch) |
+| **MultiBinding**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/MultiBinding) |
 
 ## 🍒 How to Use This Repository
 
