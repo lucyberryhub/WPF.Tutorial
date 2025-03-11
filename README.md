@@ -49,6 +49,7 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **Passing Parameters in an Event**   |Invoke  | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/PassingParametersInEvent) |
 | **switch**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/switch) |
 | **MultiBinding**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/MultiBinding) |
+| **Git**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Git) |
 
 ## 🍒 How to Use This Repository
 
