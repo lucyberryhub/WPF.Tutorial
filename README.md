@@ -50,6 +50,7 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **switch**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/switch) |
 | **MultiBinding**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/MultiBinding) |
 | **Git**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Git) |
+| **Expression**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Expression) |
 
 ## 🍒 How to Use This Repository
 
