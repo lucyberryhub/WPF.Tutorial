@@ -51,6 +51,9 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **MultiBinding**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/MultiBinding) |
 | **Git**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Git) |
 | **Expression**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Expression) |
+| **Update UI with SetValue**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/SetValue) |
+
+
 
 ## 🍒 How to Use This Repository
 
