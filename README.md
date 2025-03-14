@@ -52,7 +52,7 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **Git**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Git) |
 | **Expression**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Expression) |
 | **Update UI with SetValue**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/SetValue) |
-
+| **Json Data Handling**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Json3) |
 
 
 ## 🍒 How to Use This Repository
