@@ -54,6 +54,8 @@ Welcome to the Lucy Berry WPF Tutorial! This repository is your go-to guide for 
 | **Update UI with SetValue**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/SetValue) |
 | **Json Data Handling**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Json3) |
 | **Combo Box**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/Combobox) |
+| **ResourceDictionary in Entity Framework Core**   | | [View Wiki](https://github.com/lucyberryhub/WPF-Tutorial/wiki/ResourceDictionary-in-Entity-Framework-Core) |
+
 
 ## 🍒 How to Use This Repository
 
